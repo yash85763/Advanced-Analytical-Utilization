@@ -46,4 +46,4 @@ If you wish to contribute to this project or have any feedback, please feel free
 
 ## License
 
-This project is distributed under the [insert license type] license. See the [LICENSE.md](link to the license file) file for more details.
+This project is distributed under the [insert license type] license. See the [LICENSE.md](LICENSE) file for more details.
